@@ -19,7 +19,7 @@
 | ------- | ----------- | -------------------|
 | 1       | DoB         | 12/06/1974         |
 | 2       | Designation | Associate Professor|
-| 3       | Email       | kds@gndec.ac.in    |
+| 3       | Email       | kds@gndec.ac.in  |
 | 4       | Experience  | 22 years           |
 
 ## Hobbies
